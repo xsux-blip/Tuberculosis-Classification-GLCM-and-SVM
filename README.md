@@ -1,4 +1,4 @@
-# StarOffice - Tuberculosis Classification Project
+# Andrew Bintang Pratama - Tuberculosis Classification Project
 
 ## Project Overview
 This repository contains a Machine Learning project developed for the classification of Tuberculosis (TB) using medical images. The model was built to assist healthcare professionals in diagnosing TB through the detection of patterns in medical imaging, leveraging advanced algorithms like **Convolutional Neural Networks (CNNs)**.
