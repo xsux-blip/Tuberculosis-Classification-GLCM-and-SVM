@@ -24,7 +24,7 @@ This repository contains a Machine Learning project developed for the classifica
 - **Support Vector Machine (SVM)**: Another method explored for classification.
 
 ## About Me
-Hi, I am **Andrew Bintang Pratama**, an **Artificial Intelligence Developer** with a strong background in **Machine Learning** and **Data Science**. I hold a degree in **Mathematics** and have been involved in various tech projects, including the development of a TB detection system as part of my research and professional work. My expertise lies in building AI solutions that can have a significant impact in the healthcare industry.
+Hi, I am **Andrew Bintang Pratama**, an **Artificial Intelligence Developer** with a strong background in **Machine Learning** and **Data Science**. I hold a degree in **Applied Mathematics** and have been involved in various tech projects, including the development of a TB detection system as part of my research and professional work. My expertise lies in building AI solutions that can have a significant impact in the healthcare industry.
 
 If you're interested in collaborating or learning more about this project, feel free to reach out!
 
